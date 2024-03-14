@@ -1,0 +1,28 @@
+c:\users\admin\onedrive\tài liệu\visual studio 2015\Projects\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+c:\users\admin\onedrive\tài liệu\visual studio 2015\Projects\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+c:\users\admin\onedrive\tài liệu\visual studio 2015\Projects\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.csprojResolveAssemblyReference.cache
+c:\users\admin\onedrive\tài liệu\visual studio 2015\Projects\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Form1.resources
+c:\users\admin\onedrive\tài liệu\visual studio 2015\Projects\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+c:\users\admin\onedrive\tài liệu\visual studio 2015\Projects\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.GenerateResource.Cache
+c:\users\admin\onedrive\tài liệu\visual studio 2015\Projects\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+c:\users\admin\onedrive\tài liệu\visual studio 2015\Projects\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+c:\users\admin\onedrive\tài liệu\visual studio 2015\Projects\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.admin.resources
+D:\Workspace\CT291_Lập-trình-ứng-dụng\quanlykhachsan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+D:\Workspace\CT291_Lập-trình-ứng-dụng\quanlykhachsan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+D:\Workspace\CT291_Lập-trình-ứng-dụng\quanlykhachsan\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+D:\Workspace\CT291_Lập-trình-ứng-dụng\quanlykhachsan\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+D:\Workspace\CT291_Lập-trình-ứng-dụng\quanlykhachsan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.admin.resources
+D:\Workspace\CT291_Lập-trình-ứng-dụng\quanlykhachsan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+D:\Workspace\CT291_Lập-trình-ứng-dụng\quanlykhachsan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.GenerateResource.Cache
+D:\Workspace\CT291_Lập-trình-ứng-dụng\quanlykhachsan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Themphong.resources
+D:\Workspace\CT291_Lập-trình-ứng-dụng\quanlykhachsan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.updatephong.resources
+D:\Workspace\CT291_Lập-trình-ứng-dụng\quanlykhachsan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.themhoadon.resources
+D:\Workspace\CT291_Lập-trình-ứng-dụng\quanlykhachsan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.themphieudat.resources
+D:\Workspace\CT291_Lập-trình-ứng-dụng\quanlykhachsan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.themnv.resources
+D:\Workspace\CT291_Lập-trình-ứng-dụng\quanlykhachsan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.updatenv.resources
+D:\Workspace\CT291_Lập-trình-ứng-dụng\quanlykhachsan\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+D:\Workspace\CT291_Lập-trình-ứng-dụng\quanlykhachsan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.AssemblyReference.cache
+D:\Workspace\CT291_Lập-trình-ứng-dụng\quanlykhachsan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.CoreCompileInputs.cache
+D:\Workspace\CT291_Lập-trình-ứng-dụng\quanlykhachsan\quanlykhachsan\quanlykhachsan\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\Workspace\CT291_Lập-trình-ứng-dụng\quanlykhachsan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.ResolveComReference.cache
+D:\Workspace\CT291_Lập-trình-ứng-dụng\quanlykhachsan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Login.resources
